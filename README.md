@@ -1,0 +1,2 @@
+# sintech.github.io
+statics
